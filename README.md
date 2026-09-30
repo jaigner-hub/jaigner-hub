@@ -5,7 +5,7 @@ Building production AI systems at the intersection of LLMs, infrastructure, and 
 | | |
 |---|---|
 | **Experience** | 20+ years across systems, infrastructure, and product |
-| **Current role** | CTO at [Keygrip](https://keygrip.io) |
+| **Current role** | CTO at [Keygrip](https://keygrip.ai) |
 | **Current focus** | Production AI/LLM systems — Claude API, RAG pipelines, agent orchestration |
 | **Patent** | [US 11,854,551](https://patents.google.com/patent/US11854551B2) |
 | **Stack** | Go / Python / Rust / C++ — comfortable across the full stack |
