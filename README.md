@@ -17,6 +17,7 @@ Building production AI systems at the intersection of LLMs, infrastructure, and 
 | Repo | What it is |
 |------|-----------|
 | [m3unit](https://github.com/jaigner-hub/m3unit) | Skinned desktop M3U streamer in Rust with a built-in archive.org Live Music Archive browser, gapless playback and a 10-band EQ |
+| [yodawg](https://github.com/jaigner-hub/yodawg) | Cross-platform QEMU GUI in Rust: a VirtualBox-like experience with KVM/WHPX acceleration, SPICE display, snapshots and networking, no flags required |
 | [jellyfin-sleep-timer](https://github.com/jaigner-hub/jellyfin-sleep-timer) | A sleep timer plugin for jellyfin |
 | [llm-npc](https://github.com/jaigner-hub/llm-npc) | Real-time voice NPC using whisper.cpp + Claude Haiku + Piper TTS |
 | [balrog-nes](https://github.com/jaigner-hub/balrog-nes) | Cycle-accurate NES emulator (6502, 2C02 PPU, 2A03 APU) in Go |
